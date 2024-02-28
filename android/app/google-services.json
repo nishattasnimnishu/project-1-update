@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820783742141",
+    "project_id": "varsity-ae907",
+    "storage_bucket": "varsity-ae907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820783742141:android:b3f611b6ca960229104bd4",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820783742141-ptenpfbcfuvv9p1mca95c22ohitciu43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project",
+            "certificate_hash": "b2dcd95a0ff2a9384b4d3c9f3bcf305ac4e95460"
+          }
+        },
+        {
+          "client_id": "820783742141-c9f0n27reo888896sqdpeh4fud5nd1g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwSaTYj9U-FOq8V1fZN71Wwlsanq2qQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820783742141-c9f0n27reo888896sqdpeh4fud5nd1g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
